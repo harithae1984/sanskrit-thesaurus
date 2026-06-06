@@ -1,0 +1,86 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Sanskrit-specific styles */
+@layer base {
+  /* Ensure proper rendering of Devanagari text */
+  .font-devanagari {
+    font-feature-settings: 'kern' 1, 'liga' 1;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  /* Better line height for Devanagari */
+  .devanagari-text {
+    line-height: 1.8;
+    letter-spacing: 0.01em;
+  }
+  
+  /* IAST diacritics need proper font support */
+  .font-iast {
+    font-feature-settings: 'kern' 1;
+  }
+}
+
+@layer components {
+  /* Card styles for entries */
+  .entry-card {
+    @apply bg-white rounded-lg shadow-md p-6 hover:shadow-lg transition-shadow;
+  }
+  
+  /* Search input with Devanagari support */
+  .search-input {
+    @apply w-full px-4 py-3 text-lg font-devanagari border-2 border-gray-300 rounded-lg 
+           focus:border-sanskrit-500 focus:outline-none focus:ring-2 focus:ring-sanskrit-200;
+  }
+  
+  /* Alphabet navigation buttons */
+  .letter-button {
+    @apply px-3 py-2 font-devanagari text-lg border border-gray-300 rounded 
+           hover:bg-sanskrit-100 hover:border-sanskrit-400 transition-colors;
+  }
+  
+  .letter-button.active {
+    @apply bg-sanskrit-500 text-white border-sanskrit-600;
+  }
+}
+
+@layer utilities {
+  /* Custom scrollbar for better UX */
+  .scrollbar-thin {
+    scrollbar-width: thin;
+    scrollbar-color: rgb(202 138 4) rgb(254 249 195);
+  }
+  
+  .scrollbar-thin::-webkit-scrollbar {
+    width: 8px;
+  }
+  
+  .scrollbar-thin::-webkit-scrollbar-track {
+    background: rgb(254 249 195);
+  }
+  
+  .scrollbar-thin::-webkit-scrollbar-thumb {
+    background-color: rgb(202 138 4);
+    border-radius: 4px;
+  }
+}
+
+/* Print styles for entry pages */
+@media print {
+  .no-print {
+    display: none !important;
+  }
+  
+  .devanagari-text {
+    font-size: 14pt;
+    line-height: 1.6;
+  }
+  
+  body {
+    print-color-adjust: exact;
+    -webkit-print-color-adjust: exact;
+  }
+}

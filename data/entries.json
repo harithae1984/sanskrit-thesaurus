@@ -1,0 +1,7740 @@
+[
+  {
+    "id": "ayamabhipr-ya",
+    "headword": "अयमभिप्रायः",
+    "headwordIAST": "ayamabhiprāyaḥ",
+    "headwordSlug": "ayamabhipr-ya",
+    "definitions": [],
+    "references": [
+      {
+        "type": "panini",
+        "citation": ") 'तस्यावयव भूतैस्तु व्याप्तं सर्वमिदं जगत्' (श्वेताश्वतरोपनिषत् 4-10) ' यथाग्ने: क्षुद्रा विस्फुलिङ्गा व्युच्चरन्ति, एवमेवास्मादात्मनः … सर्वाणि भूतानि व्युच्चरन्ति' ("
+      }
+    ],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "b-had-ra-yakopani-at",
+    "headword": "बृहदारण्यकोपनिषत्",
+    "headwordIAST": "bṛhadāraṇyakopaniṣat",
+    "headwordSlug": "b-had-ra-yakopani-at",
+    "definitions": [],
+    "references": [
+      {
+        "type": "brahma_sutra",
+        "citation": "2-3-42) इत्यधिकरणे '"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "ब",
+    "letterSlug": "ba"
+  },
+  {
+    "id": "prak-di",
+    "headword": "प्रकाशादि",
+    "headwordIAST": "prakāśādi",
+    "headwordSlug": "prak-di",
+    "definitions": [
+      {
+        "number": 2,
+        "text": "विशिष्टवस्वेकदेशः ।",
+        "textIAST": "viśiṣṭavasvekadeśaḥ ."
+      },
+      {
+        "number": 3,
+        "text": "अपृथक्सिद्धप्रकारः ।",
+        "textIAST": "apṛthaksiddhaprakāraḥ ."
+      },
+      {
+        "number": 4,
+        "text": "भागः ।",
+        "textIAST": "bhāgaḥ ."
+      },
+      {
+        "number": 5,
+        "text": "अल्पः ।",
+        "textIAST": "alpaḥ ."
+      },
+      {
+        "number": 6,
+        "text": "अवयवः ।",
+        "textIAST": "avayavaḥ ."
+      },
+      {
+        "number": 7,
+        "text": "सङ्कल्पः ।",
+        "textIAST": "saṅkalpaḥ ."
+      }
+    ],
+    "references": [],
+    "crossReferences": [],
+    "letter": "प",
+    "letterSlug": "pa"
+  },
+  {
+    "id": "a-atvam",
+    "headword": "अंशत्वम्",
+    "headwordIAST": "aṃśatvam",
+    "headwordSlug": "a-atvam",
+    "definitions": [
+      {
+        "number": 1,
+        "text": "विशिष्टवस्त्वेकदेशत्वम् ।",
+        "textIAST": "viśiṣṭavastvekadeśatvam ."
+      }
+    ],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "tu",
+    "headword": "तु",
+    "headwordIAST": "tu",
+    "headwordSlug": "tu",
+    "definitions": [
+      {
+        "number": 2,
+        "text": "एकद्रव्यैकदेशत्वम् ।",
+        "textIAST": "ekadravyaikadeśatvam ."
+      },
+      {
+        "number": 3,
+        "text": "अपृथक्सिद्धप्रकारत्वम् ।",
+        "textIAST": "apṛthaksiddhaprakāratvam ."
+      }
+    ],
+    "references": [
+      {
+        "type": "brahma_sutra",
+        "citation": "2-3-47) इति सूत्रेण परिहृता"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "त",
+    "letterSlug": "ta"
+  },
+  {
+    "id": "a-abheda",
+    "headword": "अंशभेदः",
+    "headwordIAST": "aṃśabhedaḥ",
+    "headwordSlug": "a-abheda",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "r-pau-kare",
+    "headword": "श्रीपौष्करे",
+    "headwordIAST": "śrīpauṣkare",
+    "headwordSlug": "r-pau-kare",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "श",
+    "letterSlug": "a"
+  },
+  {
+    "id": "a-dhikara-am",
+    "headword": "अंशाधिकरणम्",
+    "headwordIAST": "aṃśādhikaraṇam",
+    "headwordSlug": "a-dhikara-am",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "upapadyete",
+    "headword": "उपपद्येते",
+    "headwordIAST": "upapadyete",
+    "headwordSlug": "upapadyete",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "उ",
+    "letterSlug": "u"
+  },
+  {
+    "id": "a-vat-ra",
+    "headword": "अंशावतारः",
+    "headwordIAST": "aṃśāvatāraḥ",
+    "headwordSlug": "a-vat-ra",
+    "definitions": [],
+    "references": [
+      {
+        "type": "purana",
+        "citation": "5-1-2)</p><p>भगवान् पुरुषोत्तमः परव्यूहविभवादिषु सर्वत्र स्वरूपरूपगुणादिभिः परिपूर्ण एव सन् इच्छागृहीतपरिच्छिन्नदेवमनुष्यादिदेहतया अंश इति अंशांश इति च व्यपदिश्यते; कृष्णाद्यवतारेष्वपि विश्वरूपदर्शनाद्यतिमानुषप्रवृत्तौ सर्वैश्वर्यस्य व्यक्तत्वात्"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "a-ena",
+    "headword": "अंशेन",
+    "headwordIAST": "aṃśena",
+    "headwordSlug": "a-ena",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "a-vat-r-a",
+    "headword": "अंशावतीर्णः",
+    "headwordIAST": "aṃśāvatīrṇaḥ",
+    "headwordSlug": "a-vat-r-a",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "a-vat-ra",
+    "headword": "अंशांशावतारः",
+    "headwordIAST": "aṃśāṃśāvatāraḥ",
+    "headwordSlug": "a-vat-ra",
+    "definitions": [],
+    "references": [
+      {
+        "type": "purana",
+        "citation": "5-1-3)</p><p>अंशावतारत्वोक्तिस्तु साक्षात्सङ्कल्पेनैव प्रादुर्भावपरा"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "a-itvam",
+    "headword": "अंशांशित्वम्",
+    "headwordIAST": "aṃśāṃśitvam",
+    "headwordSlug": "a-itvam",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "laukik-laukikavyavah-ras-dh",
+    "headword": "लौकिकालौकिकव्यवहारसाधा",
+    "headwordIAST": "laukikālaukikavyavahārasādhā",
+    "headwordSlug": "laukik-laukikavyavah-ras-dh",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "ल",
+    "letterSlug": "la"
+  },
+  {
+    "id": "a-a",
+    "headword": "अंशः",
+    "headwordIAST": "aṃśaḥ",
+    "headwordSlug": "a-a",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "n-n-vyapade-t",
+    "headword": "नानाव्यपदेशात्",
+    "headwordIAST": "nānāvyapadeśāt",
+    "headwordSlug": "n-n-vyapade-t",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "न",
+    "letterSlug": "na"
+  },
+  {
+    "id": "ca",
+    "headword": "च",
+    "headwordIAST": "ca",
+    "headwordSlug": "ca",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "च",
+    "letterSlug": "ca"
+  },
+  {
+    "id": "eke",
+    "headword": "एके",
+    "headwordIAST": "eke",
+    "headwordSlug": "eke",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "ए",
+    "letterSlug": "e"
+  },
+  {
+    "id": "d",
+    "headword": "दाशाः",
+    "headwordIAST": "dāśāḥ",
+    "headwordSlug": "d",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "द",
+    "letterSlug": "da"
+  },
+  {
+    "id": "ktiv",
+    "headword": "क्तिवाः",
+    "headwordIAST": "ktivāḥ",
+    "headwordSlug": "ktiv",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "क",
+    "letterSlug": "ka"
+  },
+  {
+    "id": "sra-tva",
+    "headword": "स्रष्टृत्व",
+    "headwordIAST": "sraṣṭṛtva",
+    "headwordSlug": "sra-tva",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "स",
+    "letterSlug": "sa"
+  },
+  {
+    "id": "s-jyatva",
+    "headword": "सृज्यत्व",
+    "headwordIAST": "sṛjyatva",
+    "headwordSlug": "s-jyatva",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "स",
+    "letterSlug": "sa"
+  },
+  {
+    "id": "niyant-tva",
+    "headword": "नियन्तृत्व",
+    "headwordIAST": "niyantṛtva",
+    "headwordSlug": "niyant-tva",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "न",
+    "letterSlug": "na"
+  },
+  {
+    "id": "niy-myatva",
+    "headword": "नियाम्यत्व",
+    "headwordIAST": "niyāmyatva",
+    "headwordSlug": "niy-myatva",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "न",
+    "letterSlug": "na"
+  },
+  {
+    "id": "tadup-sakatva",
+    "headword": "तदुपासकत्व",
+    "headwordIAST": "tadupāsakatva",
+    "headwordSlug": "tadup-sakatva",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "त",
+    "letterSlug": "ta"
+  },
+  {
+    "id": "durbhik-a",
+    "headword": "दुर्भिक्षः",
+    "headwordIAST": "durbhikṣaḥ",
+    "headwordSlug": "durbhik-a",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "द",
+    "letterSlug": "da"
+  },
+  {
+    "id": "pr-guktaniyant-tva",
+    "headword": "प्रागुक्तनियन्तृत्व",
+    "headwordIAST": "prāguktaniyantṛtva",
+    "headwordSlug": "pr-guktaniyant-tva",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "प",
+    "letterSlug": "pa"
+  },
+  {
+    "id": "cet",
+    "headword": "चेत्",
+    "headwordIAST": "cet",
+    "headwordSlug": "cet",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "च",
+    "letterSlug": "ca"
+  },
+  {
+    "id": "avayav",
+    "headword": "अवयवा",
+    "headwordIAST": "avayavā",
+    "headwordSlug": "avayav",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "bh-va",
+    "headword": "भावः",
+    "headwordIAST": "bhāvaḥ",
+    "headwordSlug": "bh-va",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "भ",
+    "letterSlug": "bha"
+  },
+  {
+    "id": "rthik-atva",
+    "headword": "आर्थिकांशत्व",
+    "headwordIAST": "ārthikāṃśatva",
+    "headwordSlug": "rthik-atva",
+    "definitions": [],
+    "references": [
+      {
+        "type": "brahma_sutra",
+        "citation": "पद्यमालिका 258)</p><p><strong>"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "आ",
+    "letterSlug": ""
+  },
+  {
+    "id": "akam",
+    "headword": "अकम्",
+    "headwordIAST": "akam",
+    "headwordSlug": "akam",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "ka",
+    "headword": "कं",
+    "headwordIAST": "kaṃ",
+    "headwordSlug": "ka",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "क",
+    "letterSlug": "ka"
+  },
+  {
+    "id": "akampan-yatvam",
+    "headword": "अकम्पनीयत्वम्",
+    "headwordIAST": "akampanīyatvam",
+    "headwordSlug": "akampan-yatvam",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "kara-a",
+    "headword": "करणं",
+    "headwordIAST": "karaṇaṃ",
+    "headwordSlug": "kara-a",
+    "definitions": [],
+    "references": [
+      {
+        "type": "brahma_sutra",
+        "citation": "वपद्यमालिका 278)</p><p><strong>"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "क",
+    "letterSlug": "ka"
+  },
+  {
+    "id": "akart",
+    "headword": "अकर्ता",
+    "headwordIAST": "akartā",
+    "headwordSlug": "akart",
+    "definitions": [
+      {
+        "number": 2,
+        "text": "गुणाश्रयप्रवृत्तीनां अनाश्रयभूतः स्वतश्च तन्मूलप्रवृत्त्यनर्हः ।",
+        "textIAST": "guṇāśrayapravṛttīnāṃ anāśrayabhūtaḥ svataśca tanmūlapravṛttyanarhaḥ ."
+      }
+    ],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "akarma",
+    "headword": "अकर्म",
+    "headwordIAST": "akarma",
+    "headwordSlug": "akarma",
+    "definitions": [
+      {
+        "number": 1,
+        "text": "अननुष्ठानम् ।",
+        "textIAST": "ananuṣṭhānam ."
+      },
+      {
+        "number": 2,
+        "text": "ज्ञाननिष्ठा (गीता भाष्यम्) 'कर्म ज्यायो ह्यकर्मणः' (गीता 3-8) </p><p>3. कर्तुरात्मनः याथात्म्यज्ञानम् ।",
+        "textIAST": "jñānaniṣṭhā (gītā bhāṣyam) 'karma jyāyo hyakarmaṇaḥ' (gītā 3-8) </p><p>3. karturātmanaḥ yāthātmyajñānam ."
+      }
+    ],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "akarmava-yattram",
+    "headword": "अकर्मवश्यत्त्रम्",
+    "headwordIAST": "akarmavaśyattram",
+    "headwordSlug": "akarmava-yattram",
+    "definitions": [
+      {
+        "number": 1,
+        "text": "निरवयवः – जीवात्ना ।",
+        "textIAST": "niravayavaḥ – jīvātnā ."
+      }
+    ],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "o-a-akal-nya",
+    "headword": "षोडशकलाशून्यः",
+    "headwordIAST": "ṣoḍaśakalāśūnyaḥ",
+    "headwordSlug": "o-a-akal-nya",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "ष",
+    "letterSlug": "a"
+  },
+  {
+    "id": "akalpanam",
+    "headword": "अकल्पनम्",
+    "headwordIAST": "akalpanam",
+    "headwordSlug": "akalpanam",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "kalpana",
+    "headword": "कल्पनं",
+    "headwordIAST": "kalpanaṃ",
+    "headwordSlug": "kalpana",
+    "definitions": [],
+    "references": [
+      {
+        "type": "purana",
+        "citation": "2-14-33) इति"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "क",
+    "letterSlug": "ka"
+  },
+  {
+    "id": "ak-ma",
+    "headword": "अकामः",
+    "headwordIAST": "akāmaḥ",
+    "headwordSlug": "ak-ma",
+    "definitions": [
+      {
+        "number": 1,
+        "text": "कामनाशून्यः परमात्मा ।",
+        "textIAST": "kāmanāśūnyaḥ paramātmā ."
+      },
+      {
+        "number": 2,
+        "text": "जीवः ।",
+        "textIAST": "jīvaḥ ."
+      }
+    ],
+    "references": [
+      {
+        "type": "upanishad",
+        "citation": "6-3-21) [अत्र आत्मकाम इत्युक्तेः"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "ak-mak-ra",
+    "headword": "अकामकारः",
+    "headwordIAST": "akāmakāraḥ",
+    "headwordSlug": "ak-mak-ra",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "ak-mac-ra",
+    "headword": "अकामचारः",
+    "headwordIAST": "akāmacāraḥ",
+    "headwordSlug": "ak-mac-ra",
+    "definitions": [
+      {
+        "number": 1,
+        "text": "सर्वलोककामचाराभावः ।",
+        "textIAST": "sarvalokakāmacārābhāvaḥ ."
+      },
+      {
+        "number": 2,
+        "text": "अनाविर्भूतगुणाष्टकः ।",
+        "textIAST": "anāvirbhūtaguṇāṣṭakaḥ ."
+      }
+    ],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "gu-akam",
+    "headword": "गुणाष्टकम्",
+    "headwordIAST": "guṇāṣṭakam",
+    "headwordSlug": "gu-akam",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "ग",
+    "letterSlug": "ga"
+  },
+  {
+    "id": "ak-mahata",
+    "headword": "अकामहतः",
+    "headwordIAST": "akāmahataḥ",
+    "headwordSlug": "ak-mahata",
+    "definitions": [
+      {
+        "number": 1,
+        "text": "[निवृत्ताविद्यत्वात्] समस्तसांसारिकभोगानुपहतः ।",
+        "textIAST": "[nivṛttāvidyatvāt] samastasāṃsārikabhogānupahataḥ ."
+      },
+      {
+        "number": 2,
+        "text": "उपासनान्निवृत्तसमस्तक्लेशः ॥ (श्रुतप्रकाशिका 1-1-13)</p><p>अकामात्मा – फलाभिसन्धिरहितः ।",
+        "textIAST": "upāsanānnivṛttasamastakleśaḥ .. (śrutaprakāśikā 1-1-13)</p><p>akāmātmā – phalābhisandhirahitaḥ ."
+      }
+    ],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "ak-yam",
+    "headword": "अकायम्",
+    "headwordIAST": "akāyam",
+    "headwordSlug": "ak-yam",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "ak-ra",
+    "headword": "अकारः",
+    "headwordIAST": "akāraḥ",
+    "headwordSlug": "ak-ra",
+    "definitions": [
+      {
+        "number": 2,
+        "text": "अवर्णः ।",
+        "textIAST": "avarṇaḥ ."
+      }
+    ],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "ak-rapra-avas-m-n-dhikara-yam",
+    "headword": "अकारप्रणवसामानाधिकरण्यम्",
+    "headwordIAST": "akārapraṇavasāmānādhikaraṇyam",
+    "headwordSlug": "ak-rapra-avas-m-n-dhikara-yam",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "lak-m-sambandhavya-jakatvam",
+    "headword": "लक्ष्मीसम्बन्धव्यञ्जकत्वम्",
+    "headwordIAST": "lakṣmīsambandhavyañjakatvam",
+    "headwordSlug": "lak-m-sambandhavya-jakatvam",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "ल",
+    "letterSlug": "la"
+  },
+  {
+    "id": "ak-r-rtha",
+    "headword": "अकारार्थः",
+    "headwordIAST": "akārārthaḥ",
+    "headwordSlug": "ak-r-rtha",
+    "definitions": [
+      {
+        "number": 1,
+        "text": "नारायणः ।",
+        "textIAST": "nārāyaṇaḥ ."
+      }
+    ],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "bhagavat",
+    "headword": "भगवता",
+    "headwordIAST": "bhagavatā",
+    "headwordSlug": "bhagavat",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "भ",
+    "letterSlug": "bha"
+  },
+  {
+    "id": "taduktam",
+    "headword": "तदुक्तम्",
+    "headwordIAST": "taduktam",
+    "headwordSlug": "taduktam",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "त",
+    "letterSlug": "ta"
+  },
+  {
+    "id": "ak-ryasa-yoga",
+    "headword": "अकार्यसंयोगः",
+    "headwordIAST": "akāryasaṃyogaḥ",
+    "headwordSlug": "ak-ryasa-yoga",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "ak-lak-lyam",
+    "headword": "अकालकाल्यम्",
+    "headwordIAST": "akālakālyam",
+    "headwordSlug": "ak-lak-lyam",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "sy-t",
+    "headword": "स्यात्",
+    "headwordIAST": "syāt",
+    "headwordSlug": "sy-t",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "स",
+    "letterSlug": "sa"
+  },
+  {
+    "id": "aki-cana",
+    "headword": "अकिश्चनः",
+    "headwordIAST": "akiścanaḥ",
+    "headwordSlug": "aki-cana",
+    "definitions": [
+      {
+        "number": 1,
+        "text": "अनन्यसाधनः ।",
+        "textIAST": "ananyasādhanaḥ ."
+      }
+    ],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "ananyas-dhanatvar-pamityabhipr-ye-ha",
+    "headword": "अनन्यसाधनत्वरूपमित्यभिप्रायेणाह",
+    "headwordIAST": "ananyasādhanatvarūpamityabhiprāyeṇāha",
+    "headwordSlug": "ananyas-dhanatvar-pamityabhipr-ye-ha",
+    "definitions": [
+      {
+        "number": 2,
+        "text": "कर्मयोगादिहेतुभूतगुणक्रियादिसम्पादनदौष्कर्यामिप्रायेणाकिञ्चनत्वोक्तिः ।",
+        "textIAST": "karmayogādihetubhūtaguṇakriyādisampādanadauṣkaryāmiprāyeṇākiñcanatvoktiḥ ."
+      },
+      {
+        "number": 3,
+        "text": "दरिद्रः ।",
+        "textIAST": "daridraḥ ."
+      }
+    ],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "aku-haviku-hadhi-ya",
+    "headword": "अकुण्ठविकुण्ठधिष्ण्यः",
+    "headwordIAST": "akuṇṭhavikuṇṭhadhiṣṇyaḥ",
+    "headwordSlug": "aku-haviku-hadhi-ya",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "akku-hit-kha-asukh-tmabodha",
+    "headword": "अक्कुण्ठिताखण्डसुखात्मबोधः",
+    "headwordIAST": "akkuṇṭhitākhaṇḍasukhātmabodhaḥ",
+    "headwordSlug": "akku-hit-kha-asukh-tmabodha",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "akha-a",
+    "headword": "अखण्डः",
+    "headwordIAST": "akhaṇḍaḥ",
+    "headwordSlug": "akha-a",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "ak-ta",
+    "headword": "अकृतः",
+    "headwordIAST": "akṛtaḥ",
+    "headwordSlug": "ak-ta",
+    "definitions": [
+      {
+        "number": 2,
+        "text": "नित्यः ।",
+        "textIAST": "nityaḥ ."
+      }
+    ],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "ak-tavrat",
+    "headword": "अकृतव्रताः",
+    "headwordIAST": "akṛtavratāḥ",
+    "headwordSlug": "ak-tavrat",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "ak-t-tm-na",
+    "headword": "अकृतात्मानः",
+    "headwordIAST": "akṛtātmānaḥ",
+    "headwordSlug": "ak-t-tm-na",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "ityatr-ha",
+    "headword": "इत्यत्राह",
+    "headwordIAST": "ityatrāha",
+    "headwordSlug": "ityatr-ha",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "इ",
+    "letterSlug": "i"
+  },
+  {
+    "id": "ak-t-bhy-gama",
+    "headword": "अकृताभ्यागमः",
+    "headwordIAST": "akṛtābhyāgamaḥ",
+    "headwordSlug": "ak-t-bhy-gama",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "ak-trima",
+    "headword": "अकृत्रिमः",
+    "headwordIAST": "akṛtrimaḥ",
+    "headwordSlug": "ak-trima",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "bhagavatka-k-avi-e-dh-namah",
+    "headword": "भगवत्कटाक्षविशेषाधीनमहा",
+    "headwordIAST": "bhagavatkaṭākṣaviśeṣādhīnamahā",
+    "headwordSlug": "bhagavatka-k-avi-e-dh-namah",
+    "grammaticalInfo": "विशेषणम्",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "भ",
+    "letterSlug": "bha"
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "ekaikena",
+    "headword": "एकैकेन",
+    "headwordIAST": "ekaikena",
+    "headwordSlug": "ekaikena",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "ए",
+    "letterSlug": "e"
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "sa",
+    "headword": "सः",
+    "headwordIAST": "saḥ",
+    "headwordSlug": "sa",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "स",
+    "letterSlug": "sa"
+  },
+  {
+    "id": "ak-tsna",
+    "headword": "अकृत्स्नः",
+    "headwordIAST": "akṛtsnaḥ",
+    "headwordSlug": "ak-tsna",
+    "definitions": [],
+    "references": [
+      {
+        "type": "panini",
+        "citation": "</strong>"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "",
+    "headword": "६",
+    "headwordIAST": "६",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "६",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "grammaticalInfo": "धातुः",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [
+      {
+        "targetHeadword": "।",
+        "targetSlug": "",
+        "type": "see_also"
+      }
+    ],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "kratu",
+    "headword": "क्रतुः",
+    "headwordIAST": "kratuḥ",
+    "headwordSlug": "kratu",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "क",
+    "letterSlug": "ka"
+  },
+  {
+    "id": "",
+    "headword": "६",
+    "headwordIAST": "६",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "६",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१६",
+    "headwordIAST": "१६",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "arke",
+    "headword": "अर्के",
+    "headwordIAST": "arke",
+    "headwordSlug": "arke",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "g-hako-e",
+    "headword": "गृहकोणे",
+    "headwordIAST": "gṛhakoṇe",
+    "headwordSlug": "g-hako-e",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "ग",
+    "letterSlug": "ga"
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [
+      {
+        "type": "purana",
+        "citation": "</strong>"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [
+      {
+        "type": "purana",
+        "citation": "</strong>"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "ak-tsnapari-mi",
+    "headword": "अकृत्स्नपरिणामि",
+    "headwordIAST": "akṛtsnapariṇāmi",
+    "headwordSlug": "ak-tsnapari-mi",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "ak-ryatv-danyatr-samaveta",
+    "headword": "अकार्यत्वादन्यत्रासमवेतं",
+    "headwordIAST": "akāryatvādanyatrāsamavetaṃ",
+    "headwordSlug": "ak-ryatv-danyatr-samaveta",
+    "definitions": [],
+    "references": [
+      {
+        "type": "panini",
+        "citation": "</strong>"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "",
+    "headword": "६",
+    "headwordIAST": "६",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "६",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१५",
+    "headwordIAST": "१५",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "acitpari-mavi-e-abrahm-di",
+    "headword": "अचित्परिणामविशेषब्रह्मादि",
+    "headwordIAST": "acitpariṇāmaviśeṣabrahmādi",
+    "headwordSlug": "acitpari-mavi-e-abrahm-di",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "",
+    "headword": "५",
+    "headwordIAST": "५",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "५",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "८",
+    "headwordIAST": "८",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "८",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "grammaticalInfo": "धातुः",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "bdaprat-ti",
+    "headword": "शाब्दप्रतीति",
+    "headwordIAST": "śābdapratīti",
+    "headwordSlug": "bdaprat-ti",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "श",
+    "letterSlug": "a"
+  },
+  {
+    "id": "p-rthiv",
+    "headword": "पार्थिवा",
+    "headwordIAST": "pārthivā",
+    "headwordSlug": "p-rthiv",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "प",
+    "letterSlug": "pa"
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "kyu-abdopalak-ita",
+    "headword": "ऋक्युशब्दोपलक्षित",
+    "headwordIAST": "ṛkyuśabdopalakṣita",
+    "headwordSlug": "kyu-abdopalak-ita",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "ऋ",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "anantadeve-a",
+    "headword": "अनन्तदेवेश",
+    "headwordIAST": "anantadeveśa",
+    "headwordSlug": "anantadeve-a",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "",
+    "headword": "११",
+    "headwordIAST": "११",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "८",
+    "headwordIAST": "८",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [
+      {
+        "type": "purana",
+        "citation": "</strong>"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "८",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "५",
+    "headwordIAST": "५",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "५",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [
+      {
+        "type": "panini",
+        "citation": "</strong>"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "v-tti",
+    "headword": "वृत्तिः",
+    "headwordIAST": "vṛttiḥ",
+    "headwordSlug": "v-tti",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "व",
+    "letterSlug": "va"
+  },
+  {
+    "id": "t-yana",
+    "headword": "तायनं",
+    "headwordIAST": "tāyanaṃ",
+    "headwordSlug": "t-yana",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "त",
+    "letterSlug": "ta"
+  },
+  {
+    "id": "aupasadavattaduktam",
+    "headword": "औपसदवत्तदुक्तम्",
+    "headwordIAST": "aupasadavattaduktam",
+    "headwordSlug": "aupasadavattaduktam",
+    "definitions": [],
+    "references": [
+      {
+        "type": "brahma_sutra",
+        "citation": "</strong>"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "औ",
+    "letterSlug": "au"
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "५",
+    "headwordIAST": "५",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "५",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "८",
+    "headwordIAST": "८",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "८",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "sam-natv-t",
+    "headword": "समानत्वात्",
+    "headwordIAST": "samānatvāt",
+    "headwordSlug": "sam-natv-t",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "स",
+    "letterSlug": "sa"
+  },
+  {
+    "id": "ak-arama",
+    "headword": "अक्षरम",
+    "headwordIAST": "akṣarama",
+    "headwordSlug": "ak-arama",
+    "definitions": [],
+    "references": [
+      {
+        "type": "brahma_sutra",
+        "citation": "पद्यमालिका</strong> ३८७)</p><p><strong>अक्षरध्यधिकरणम्</strong> - (<strong>अधिकरणसंख्या</strong>"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "।",
+    "headwordIAST": ".",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "।",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [
+      {
+        "type": "brahma_sutra",
+        "citation": "</strong>"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "ucyate",
+    "headword": "उच्यते",
+    "headwordIAST": "ucyate",
+    "headwordSlug": "ucyate",
+    "definitions": [],
+    "references": [
+      {
+        "type": "brahma_sutra",
+        "citation": "पद्यमालिका</strong> ७४)</p><p><strong>अक्षरयाथात्म्यम्</strong> - १. विविक्तात्मस्वरूपम्"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "उ",
+    "letterSlug": "u"
+  },
+  {
+    "id": "",
+    "headword": "८",
+    "headwordIAST": "८",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "८",
+    "letterSlug": ""
+  },
+  {
+    "id": "nive-a",
+    "headword": "निवेशः",
+    "headwordIAST": "niveśaḥ",
+    "headwordSlug": "nive-a",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "न",
+    "letterSlug": "na"
+  },
+  {
+    "id": "sv-tm-nubhavavilambavimukha",
+    "headword": "स्वात्मानुभवविलम्बविमुख",
+    "headwordIAST": "svātmānubhavavilambavimukha",
+    "headwordSlug": "sv-tm-nubhavavilambavimukha",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "स",
+    "letterSlug": "sa"
+  },
+  {
+    "id": "",
+    "headword": "८",
+    "headwordIAST": "८",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "८",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "५",
+    "headwordIAST": "५",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "५",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "८",
+    "headwordIAST": "८",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "८",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [
+      {
+        "number": 100,
+        "text": "pdf</strong> के पृष्ठ २६ से ५० तक का शुद्ध संस्कृत पाठ दिया गया है।",
+        "textIAST": "pdf</strong> ke pṛṣṭha २६ se ५० taka kā śuddha saṃskṛta pāṭha diyā gayā hai."
+      }
+    ],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "ayamatr-bhipr-ya",
+    "headword": "अयमत्राभिप्रायः",
+    "headwordIAST": "ayamatrābhiprāyaḥ",
+    "headwordSlug": "ayamatr-bhipr-ya",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "karma",
+    "headword": "कर्म",
+    "headwordIAST": "karma",
+    "headwordSlug": "karma",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "क",
+    "letterSlug": "ka"
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "k-a",
+    "headword": "काण्ड६",
+    "headwordIAST": "kāṇḍa६",
+    "headwordSlug": "k-a",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "क",
+    "letterSlug": "ka"
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [
+      {
+        "type": "panini",
+        "citation": "</strong>"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "६",
+    "headwordIAST": "६",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "६",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "५",
+    "headwordIAST": "५",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "५",
+    "letterSlug": ""
+  },
+  {
+    "id": "k-iti",
+    "headword": "क्षितिः",
+    "headwordIAST": "kṣitiḥ",
+    "headwordSlug": "k-iti",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "क",
+    "letterSlug": "ka"
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१५",
+    "headwordIAST": "१५",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [
+      {
+        "type": "brahma_sutra",
+        "citation": "</strong>"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "antaradhikara-a",
+    "headword": "अन्तरधिकरण",
+    "headwordIAST": "antaradhikaraṇa",
+    "headwordSlug": "antaradhikara-a",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "any-nam",
+    "headword": "अन्यूनम्",
+    "headwordIAST": "anyūnam",
+    "headwordSlug": "any-nam",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१६",
+    "headwordIAST": "१६",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "akha-av-ky",
+    "headword": "अखण्डवाक्या",
+    "headwordIAST": "akhaṇḍavākyā",
+    "headwordSlug": "akha-av-ky",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "var-ayanti",
+    "headword": "वर्णयन्ति",
+    "headwordIAST": "varṇayanti",
+    "headwordSlug": "var-ayanti",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "व",
+    "letterSlug": "va"
+  },
+  {
+    "id": "",
+    "headword": "१५",
+    "headwordIAST": "१५",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "dvividha",
+    "headword": "द्विविधः",
+    "headwordIAST": "dvividhaḥ",
+    "headwordSlug": "dvividha",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "द",
+    "letterSlug": "da"
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "j-nam",
+    "headword": "ज्ञानम्",
+    "headwordIAST": "jñānam",
+    "headwordSlug": "j-nam",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "ज",
+    "letterSlug": "ja"
+  },
+  {
+    "id": "akhilety",
+    "headword": "अखिलेत्या",
+    "headwordIAST": "akhiletyā",
+    "headwordSlug": "akhilety",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "khy-ti",
+    "headword": "ख्यातिः",
+    "headwordIAST": "khyātiḥ",
+    "headwordSlug": "khy-ti",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "ख",
+    "letterSlug": "kha"
+  },
+  {
+    "id": "bhr-nt-bhr-nta",
+    "headword": "भ्रान्ताभ्रान्त",
+    "headwordIAST": "bhrāntābhrānta",
+    "headwordSlug": "bhr-nt-bhr-nta",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "भ",
+    "letterSlug": "bha"
+  },
+  {
+    "id": "akhy-tisa-va",
+    "headword": "अख्यातिसंव",
+    "headwordIAST": "akhyātisaṃva",
+    "headwordSlug": "akhy-tisa-va",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "y-mun-c-ryai",
+    "headword": "यामुनाचार्यैः",
+    "headwordIAST": "yāmunācāryaiḥ",
+    "headwordSlug": "y-mun-c-ryai",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "य",
+    "letterSlug": "ya"
+  },
+  {
+    "id": "vi-e-a",
+    "headword": "विशेषः",
+    "headwordIAST": "viśeṣaḥ",
+    "headwordSlug": "vi-e-a",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "व",
+    "letterSlug": "va"
+  },
+  {
+    "id": "bodhyam",
+    "headword": "बोध्यम्",
+    "headwordIAST": "bodhyam",
+    "headwordSlug": "bodhyam",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "ब",
+    "letterSlug": "ba"
+  },
+  {
+    "id": "kecittu",
+    "headword": "केचित्तु",
+    "headwordIAST": "kecittu",
+    "headwordSlug": "kecittu",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "क",
+    "letterSlug": "ka"
+  },
+  {
+    "id": "tu",
+    "headword": "तु",
+    "headwordIAST": "tu",
+    "headwordSlug": "tu",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "त",
+    "letterSlug": "ta"
+  },
+  {
+    "id": "tvatraivetyabhiprety-bhihitam-c-ryai",
+    "headword": "त्वत्रैवेत्यभिप्रेत्याभिहितमाचार्यैः",
+    "headwordIAST": "tvatraivetyabhipretyābhihitamācāryaiḥ",
+    "headwordSlug": "tvatraivetyabhiprety-bhihitam-c-ryai",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "त",
+    "letterSlug": "ta"
+  },
+  {
+    "id": "gati",
+    "headword": "गतिः",
+    "headwordIAST": "gatiḥ",
+    "headwordSlug": "gati",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "ग",
+    "letterSlug": "ga"
+  },
+  {
+    "id": "acetana",
+    "headword": "अचेतन",
+    "headwordIAST": "acetana",
+    "headwordSlug": "acetana",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "",
+    "headword": "४४",
+    "headwordIAST": "४४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "vyajyate",
+    "headword": "व्यज्यते",
+    "headwordIAST": "vyajyate",
+    "headwordSlug": "vyajyate",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "व",
+    "letterSlug": "va"
+  },
+  {
+    "id": "bh-gavatam",
+    "headword": "भागवतम्",
+    "headwordIAST": "bhāgavatam",
+    "headwordSlug": "bh-gavatam",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "भ",
+    "letterSlug": "bha"
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "६",
+    "headwordIAST": "६",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "६",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "५",
+    "headwordIAST": "५",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "५",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "६",
+    "headwordIAST": "६",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "६",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [
+      {
+        "type": "panini",
+        "citation": "</strong>"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "५",
+    "headwordIAST": "५",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "५",
+    "letterSlug": ""
+  },
+  {
+    "id": "acetane",
+    "headword": "अचेतने",
+    "headwordIAST": "acetane",
+    "headwordSlug": "acetane",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "ev-nyatroktam",
+    "headword": "एवान्यत्रोक्तम्",
+    "headwordIAST": "evānyatroktam",
+    "headwordSlug": "ev-nyatroktam",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "ए",
+    "letterSlug": "e"
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "५",
+    "headwordIAST": "५",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "५",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "५",
+    "headwordIAST": "५",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "५",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [
+      {
+        "type": "panini",
+        "citation": "</strong>"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "agnicit",
+    "headword": "अग्निचित्",
+    "headwordIAST": "agnicit",
+    "headwordSlug": "agnicit",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [
+      {
+        "type": "purana",
+        "citation": "</strong>"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "८",
+    "headwordIAST": "८",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "८",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "agni",
+    "headword": "अग्निः",
+    "headwordIAST": "agniḥ",
+    "headwordSlug": "agni",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "vedavidy",
+    "headword": "वेदविद्या",
+    "headwordIAST": "vedavidyā",
+    "headwordSlug": "vedavidy",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "व",
+    "letterSlug": "va"
+  },
+  {
+    "id": "",
+    "headword": "५",
+    "headwordIAST": "५",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "५",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२४",
+    "headwordIAST": "२४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "juhoti",
+    "headword": "जुहोति",
+    "headwordIAST": "juhoti",
+    "headwordSlug": "juhoti",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "ज",
+    "letterSlug": "ja"
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "hotram",
+    "headword": "होत्रम्",
+    "headwordIAST": "hotram",
+    "headwordSlug": "hotram",
+    "definitions": [],
+    "references": [
+      {
+        "type": "brahma_sutra",
+        "citation": "</strong>"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "ह",
+    "letterSlug": "ha"
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [
+      {
+        "type": "brahma_sutra",
+        "citation": "पद्यमालिका</strong> ४८५)</p><p><strong>अग्निहोत्राद्यधिकरणम्</strong> - (<strong>अधिकरणसंख्या</strong>"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "vy-sena",
+    "headword": "व्यासेन",
+    "headwordIAST": "vyāsena",
+    "headwordSlug": "vy-sena",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "व",
+    "letterSlug": "va"
+  },
+  {
+    "id": "bhagavaddvaca",
+    "headword": "भगवद्द्वचः",
+    "headwordIAST": "bhagavaddvacaḥ",
+    "headwordSlug": "bhagavaddvaca",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "भ",
+    "letterSlug": "bha"
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "agny-di",
+    "headword": "अग्न्यादि",
+    "headwordIAST": "agnyādi",
+    "headwordSlug": "agny-di",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [
+      {
+        "targetHeadword": "।।",
+        "targetSlug": "",
+        "type": "see_also"
+      }
+    ],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "ca",
+    "headword": "च",
+    "headwordIAST": "ca",
+    "headwordSlug": "ca",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "च",
+    "letterSlug": "ca"
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [
+      {
+        "type": "brahma_sutra",
+        "citation": "</strong>"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "५",
+    "headwordIAST": "५",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "५",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [
+      {
+        "type": "brahma_sutra",
+        "citation": "पद्यमालिका</strong> २९१)</p><p><strong>अग्न्यानयनन्यायः</strong> - एकस्य साक्षादुक्तावपि तदविनाभूतान्यस्यापि प्रतीतिसाधकः"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "agrima",
+    "headword": "अग्रिमं",
+    "headwordIAST": "agrimaṃ",
+    "headwordSlug": "agrima",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "agraha-a",
+    "headword": "अग्रहणं",
+    "headwordIAST": "agrahaṇaṃ",
+    "headwordSlug": "agraha-a",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [
+      {
+        "type": "purana",
+        "citation": "</strong>"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "५",
+    "headwordIAST": "५",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "५",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "ajita",
+    "headword": "अजित",
+    "headwordIAST": "ajita",
+    "headwordSlug": "ajita",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "vin-akara-am",
+    "headword": "विनाशकरणम्",
+    "headwordIAST": "vināśakaraṇam",
+    "headwordSlug": "vin-akara-am",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "व",
+    "letterSlug": "va"
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "vin-akara-am",
+    "headword": "विनाशकरणम्",
+    "headwordIAST": "vināśakaraṇam",
+    "headwordSlug": "vin-akara-am",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "व",
+    "letterSlug": "va"
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "etena",
+    "headword": "एतेन",
+    "headwordIAST": "etena",
+    "headwordSlug": "etena",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "ए",
+    "letterSlug": "e"
+  },
+  {
+    "id": "",
+    "headword": "५",
+    "headwordIAST": "५",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "५",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "९",
+    "headwordIAST": "९",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "९",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "९",
+    "headwordIAST": "९",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [
+      {
+        "type": "brahma_sutra",
+        "citation": "</strong>"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "९",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "r-ddh-ntastu",
+    "headword": "राद्धान्तस्तु",
+    "headwordIAST": "rāddhāntastu",
+    "headwordSlug": "r-ddh-ntastu",
+    "definitions": [],
+    "references": [
+      {
+        "type": "brahma_sutra",
+        "citation": "पद्यमालिका</strong> ४०७)</p><p><strong>अङ्गावबद्धाधिकरणम्</strong> - (<strong>अधिकरणसंख्या</strong>"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "र",
+    "letterSlug": "ra"
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "te-manusandh-namity-a-kaya",
+    "headword": "तेषामनुसन्धानमित्याशङ्कय",
+    "headwordIAST": "teṣāmanusandhānamityāśaṅkaya",
+    "headwordSlug": "te-manusandh-namity-a-kaya",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "त",
+    "letterSlug": "ta"
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [
+      {
+        "number": 100,
+        "text": "pdf</strong> के पृष्ठ ५१ से ७५ तक का शुद्ध पाठ दिया गया है।",
+        "textIAST": "pdf</strong> ke pṛṣṭha ५१ se ७५ taka kā śuddha pāṭha diyā gayā hai."
+      }
+    ],
+    "references": [
+      {
+        "type": "brahma_sutra",
+        "citation": "</strong>"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "६",
+    "headwordIAST": "६",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "६",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [
+      {
+        "type": "brahma_sutra",
+        "citation": "</strong>"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "a-gu-hapramitya",
+    "headword": "अङ्गुष्ठप्रमित्य",
+    "headwordIAST": "aṅguṣṭhapramitya",
+    "headwordSlug": "a-gu-hapramitya",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "५",
+    "headwordIAST": "५",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "५",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "८",
+    "headwordIAST": "८",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "८",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "acetanaparatantra",
+    "headword": "अचेतनपरतन्त्र",
+    "headwordIAST": "acetanaparatantra",
+    "headwordSlug": "acetanaparatantra",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "",
+    "headword": "१३",
+    "headwordIAST": "१३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [
+      {
+        "type": "brahma_sutra",
+        "citation": "</strong>"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "५",
+    "headwordIAST": "५",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "५",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "८",
+    "headwordIAST": "८",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "८",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [
+      {
+        "type": "purana",
+        "citation": "ः' (<strong>कठोपनिषत्</strong>"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "aja-adravya",
+    "headword": "अजडद्रव्य",
+    "headwordIAST": "ajaḍadravya",
+    "headwordSlug": "aja-adravya",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [
+      {
+        "type": "brahma_sutra",
+        "citation": "</strong>"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१३",
+    "headwordIAST": "१३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "aj-nasy-nivartakatva",
+    "headword": "अज्ञानस्यानिवर्तकत्व",
+    "headwordIAST": "ajñānasyānivartakatva",
+    "headwordSlug": "aj-nasy-nivartakatva",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "rayavi-ayatva",
+    "headword": "आश्रयविषयत्व",
+    "headwordIAST": "āśrayaviṣayatva",
+    "headwordSlug": "rayavi-ayatva",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "आ",
+    "letterSlug": ""
+  },
+  {
+    "id": "tirodh-na",
+    "headword": "तिरोधान",
+    "headwordIAST": "tirodhāna",
+    "headwordSlug": "tirodh-na",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "त",
+    "letterSlug": "ta"
+  },
+  {
+    "id": "svar-pa",
+    "headword": "स्वरूप",
+    "headwordIAST": "svarūpa",
+    "headwordSlug": "svar-pa",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "स",
+    "letterSlug": "sa"
+  },
+  {
+    "id": "pram-a",
+    "headword": "प्रमाण",
+    "headwordIAST": "pramāṇa",
+    "headwordSlug": "pram-a",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "प",
+    "letterSlug": "pa"
+  },
+  {
+    "id": "nivartaka",
+    "headword": "निवर्तक",
+    "headwordIAST": "nivartaka",
+    "headwordSlug": "nivartaka",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "न",
+    "letterSlug": "na"
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [
+      {
+        "type": "brahma_sutra",
+        "citation": "</strong>"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "५",
+    "headwordIAST": "५",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "५",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [
+      {
+        "type": "brahma_sutra",
+        "citation": "</strong>"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "par-bhakti",
+    "headword": "पराभक्ति",
+    "headwordIAST": "parābhakti",
+    "headwordSlug": "par-bhakti",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "प",
+    "letterSlug": "pa"
+  },
+  {
+    "id": "paraj-na",
+    "headword": "परज्ञान",
+    "headwordIAST": "parajñāna",
+    "headwordSlug": "paraj-na",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "प",
+    "letterSlug": "pa"
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [
+      {
+        "type": "purana",
+        "citation": "</strong>)</p><p><strong>अतिवादः</strong> – अतिशयितः वादः"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "७",
+    "headwordIAST": "७",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "७",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१६",
+    "headwordIAST": "१६",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१५",
+    "headwordIAST": "१५",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [
+      {
+        "type": "brahma_sutra",
+        "citation": "</strong>"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "atyanta",
+    "headword": "अत्यन्त",
+    "headwordIAST": "atyanta",
+    "headwordSlug": "atyanta",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१५",
+    "headwordIAST": "१५",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "६",
+    "headwordIAST": "६",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [
+      {
+        "type": "purana",
+        "citation": "प्रसिद्धिः"
+      },
+      {
+        "type": "brahma_sutra",
+        "citation": "</strong>"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "६",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "mu-aka",
+    "headword": "मुण्डक",
+    "headwordIAST": "muṇḍaka",
+    "headwordSlug": "mu-aka",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "म",
+    "letterSlug": "ma"
+  },
+  {
+    "id": "m-kya",
+    "headword": "माण्डूक्य",
+    "headwordIAST": "māṇḍūkya",
+    "headwordSlug": "m-kya",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "म",
+    "letterSlug": "ma"
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "५",
+    "headwordIAST": "५",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "५",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "८",
+    "headwordIAST": "८",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "८",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "५",
+    "headwordIAST": "५",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "५",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "७",
+    "headwordIAST": "७",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "७",
+    "letterSlug": ""
+  },
+  {
+    "id": "ny-ya",
+    "headword": "न्याय",
+    "headwordIAST": "nyāya",
+    "headwordSlug": "ny-ya",
+    "definitions": [],
+    "references": [
+      {
+        "type": "brahma_sutra",
+        "citation": "</strong>"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "न",
+    "letterSlug": "na"
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [
+      {
+        "type": "brahma_sutra",
+        "citation": "</strong>"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "६",
+    "headwordIAST": "६",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "६",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१४",
+    "headwordIAST": "१४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१२",
+    "headwordIAST": "१२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "atala",
+    "headword": "अतल",
+    "headwordIAST": "atala",
+    "headwordSlug": "atala",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "vitala",
+    "headword": "वितल",
+    "headwordIAST": "vitala",
+    "headwordSlug": "vitala",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "व",
+    "letterSlug": "va"
+  },
+  {
+    "id": "sutala",
+    "headword": "सुतल",
+    "headwordIAST": "sutala",
+    "headwordSlug": "sutala",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "स",
+    "letterSlug": "sa"
+  },
+  {
+    "id": "ras-tala",
+    "headword": "रसातल",
+    "headwordIAST": "rasātala",
+    "headwordSlug": "ras-tala",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "र",
+    "letterSlug": "ra"
+  },
+  {
+    "id": "tal-tala",
+    "headword": "तलातल",
+    "headwordIAST": "talātala",
+    "headwordSlug": "tal-tala",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "त",
+    "letterSlug": "ta"
+  },
+  {
+    "id": "mah-tala",
+    "headword": "महातल",
+    "headwordIAST": "mahātala",
+    "headwordSlug": "mah-tala",
+    "definitions": [],
+    "references": [
+      {
+        "type": "purana",
+        "citation": "</strong>)</p><p><strong>अधोमुखः</strong> – नम्रवदनः"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "म",
+    "letterSlug": "ma"
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [
+      {
+        "number": 100,
+        "text": "pdf</strong> के पृष्ठ ७६ से १०० तक का अंतिम भाग दिया गया है।",
+        "textIAST": "pdf</strong> ke pṛṣṭha ७६ se १०० taka kā aṃtima bhāga diyā gayā hai."
+      }
+    ],
+    "references": [
+      {
+        "type": "brahma_sutra",
+        "citation": "</strong>"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [
+      {
+        "type": "brahma_sutra",
+        "citation": "</strong>"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [
+      {
+        "type": "brahma_sutra",
+        "citation": "</strong>"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [
+      {
+        "type": "brahma_sutra",
+        "citation": "</strong>"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "svar-pa",
+    "headword": "स्वरूप",
+    "headwordIAST": "svarūpa",
+    "headwordSlug": "svar-pa",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "स",
+    "letterSlug": "sa"
+  },
+  {
+    "id": "gu-a",
+    "headword": "गुण",
+    "headwordIAST": "guṇa",
+    "headwordSlug": "gu-a",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "ग",
+    "letterSlug": "ga"
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "५",
+    "headwordIAST": "५",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "५",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "७",
+    "headwordIAST": "७",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "७",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "grammaticalInfo": "विशेषणम्",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "devat-dhikara-a",
+    "headword": "देवताधिकरण",
+    "headwordIAST": "devatādhikaraṇa",
+    "headwordSlug": "devat-dhikara-a",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "द",
+    "letterSlug": "da"
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "८",
+    "headwordIAST": "८",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "८",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "८",
+    "headwordIAST": "८",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "८",
+    "letterSlug": ""
+  },
+  {
+    "id": "caura",
+    "headword": "चौर",
+    "headwordIAST": "caura",
+    "headwordSlug": "caura",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "च",
+    "letterSlug": "ca"
+  },
+  {
+    "id": "sarpa",
+    "headword": "सर्प",
+    "headwordIAST": "sarpa",
+    "headwordSlug": "sarpa",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "स",
+    "letterSlug": "sa"
+  },
+  {
+    "id": "",
+    "headword": "८",
+    "headwordIAST": "८",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "८",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "९",
+    "headwordIAST": "९",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "९",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "९",
+    "headwordIAST": "९",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "९",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [
+      {
+        "type": "upanishad",
+        "citation": "तात्पर्यज्ञः"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१०",
+    "headwordIAST": "१०",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [
+      {
+        "type": "brahma_sutra",
+        "citation": "ोपक्रमे 'अध्यासभाष्यम्' लिखितम्"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "९",
+    "headwordIAST": "९",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "९",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "६",
+    "headwordIAST": "६",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "६",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "८",
+    "headwordIAST": "८",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [
+      {
+        "type": "brahma_sutra",
+        "citation": "</strong>"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "८",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [
+      {
+        "type": "upanishad",
+        "citation": "सु परब्रह्मणः नारायणस्यैव सर्वेश्वरत्वप्रतिपादकानि वाक्यानि अनन्यपराणि उच्यन्ते, अन्यासां देवतानां तच्छरीरत्वेनानुवादात् ॥ (<strong>वेदान्तविजयमङ्गलदीपिका</strong>)</p><p><strong>अनन्यप्रयोजनः</strong> – फलान्तररहितः पुरुषः"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१३",
+    "headwordIAST": "१३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "७",
+    "headwordIAST": "७",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "७",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२५",
+    "headwordIAST": "२५",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [
+      {
+        "type": "purana",
+        "citation": "</strong>"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "५",
+    "headwordIAST": "५",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "५",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "viveka",
+    "headword": "विवेक",
+    "headwordIAST": "viveka",
+    "headwordSlug": "viveka",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "व",
+    "letterSlug": "va"
+  },
+  {
+    "id": "vimoka",
+    "headword": "विमोक",
+    "headwordIAST": "vimoka",
+    "headwordSlug": "vimoka",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "व",
+    "letterSlug": "va"
+  },
+  {
+    "id": "abhy-sa",
+    "headword": "अभ्यास",
+    "headwordIAST": "abhyāsa",
+    "headwordSlug": "abhy-sa",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "kriy",
+    "headword": "क्रिया",
+    "headwordIAST": "kriyā",
+    "headwordSlug": "kriy",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "क",
+    "letterSlug": "ka"
+  },
+  {
+    "id": "kaly-a",
+    "headword": "कल्याण",
+    "headwordIAST": "kalyāṇa",
+    "headwordSlug": "kaly-a",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "क",
+    "letterSlug": "ka"
+  },
+  {
+    "id": "anavas-da",
+    "headword": "अनवसाद",
+    "headwordIAST": "anavasāda",
+    "headwordSlug": "anavas-da",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१३",
+    "headwordIAST": "१३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१३",
+    "headwordIAST": "१३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१८",
+    "headwordIAST": "१८",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "deha",
+    "headword": "देह",
+    "headwordIAST": "deha",
+    "headwordSlug": "deha",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "द",
+    "letterSlug": "da"
+  },
+  {
+    "id": "indriya",
+    "headword": "इन्द्रिय",
+    "headwordIAST": "indriya",
+    "headwordSlug": "indriya",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "इ",
+    "letterSlug": "i"
+  },
+  {
+    "id": "mana",
+    "headword": "मनः",
+    "headwordIAST": "manaḥ",
+    "headwordSlug": "mana",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "म",
+    "letterSlug": "ma"
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१३",
+    "headwordIAST": "१३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "cit",
+    "headword": "चित्",
+    "headwordIAST": "cit",
+    "headwordSlug": "cit",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "च",
+    "letterSlug": "ca"
+  },
+  {
+    "id": "acit",
+    "headword": "अचित्",
+    "headwordIAST": "acit",
+    "headwordSlug": "acit",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "अ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [
+      {
+        "type": "brahma_sutra",
+        "citation": "</strong>"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "८",
+    "headwordIAST": "८",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "८",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१५",
+    "headwordIAST": "१५",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [
+      {
+        "type": "brahma_sutra",
+        "citation": "</strong>"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१२",
+    "headwordIAST": "१२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [
+      {
+        "type": "brahma_sutra",
+        "citation": "</strong>"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [
+      {
+        "type": "brahma_sutra",
+        "citation": "</strong>"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "c-rv-ka",
+    "headword": "चार्वाक",
+    "headwordIAST": "cārvāka",
+    "headwordSlug": "c-rv-ka",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "च",
+    "letterSlug": "ca"
+  },
+  {
+    "id": "",
+    "headword": "५",
+    "headwordIAST": "५",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "५",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [
+      {
+        "type": "brahma_sutra",
+        "citation": "</strong>"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "grammaticalInfo": "धातुः",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "stravihita",
+    "headword": "शास्त्रविहित",
+    "headwordIAST": "śāstravihita",
+    "headwordSlug": "stravihita",
+    "definitions": [],
+    "references": [
+      {
+        "type": "brahma_sutra",
+        "citation": "</strong>"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "श",
+    "letterSlug": "a"
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "br-hma-a",
+    "headword": "ब्राह्मण",
+    "headwordIAST": "brāhmaṇa",
+    "headwordSlug": "br-hma-a",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "ब",
+    "letterSlug": "ba"
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "६",
+    "headwordIAST": "६",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "६",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "११",
+    "headwordIAST": "११",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "viveka",
+    "headword": "विवेक",
+    "headwordIAST": "viveka",
+    "headwordSlug": "viveka",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "व",
+    "letterSlug": "va"
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१७",
+    "headwordIAST": "१७",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "a",
+    "headword": "ङ",
+    "headwordIAST": "ṅa",
+    "headwordSlug": "a",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "ङ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "a",
+    "headword": "ञ",
+    "headwordIAST": "ña",
+    "headwordSlug": "a",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "ञ",
+    "letterSlug": "a"
+  },
+  {
+    "id": "a",
+    "headword": "ण",
+    "headwordIAST": "ṇa",
+    "headwordSlug": "a",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "ण",
+    "letterSlug": "a"
+  },
+  {
+    "id": "na",
+    "headword": "न",
+    "headwordIAST": "na",
+    "headwordSlug": "na",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "न",
+    "letterSlug": "na"
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [
+      {
+        "type": "brahma_sutra",
+        "citation": "</strong>"
+      }
+    ],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "११",
+    "headwordIAST": "११",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "१",
+    "headwordIAST": "१",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "१",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "४",
+    "headwordIAST": "४",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [
+      {
+        "type": "brahma_sutra",
+        "citation": "</strong>"
+      }
+    ],
+    "crossReferences": [
+      {
+        "targetHeadword": "॥",
+        "targetSlug": "",
+        "type": "see_also"
+      }
+    ],
+    "letter": "४",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "३",
+    "headwordIAST": "३",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "३",
+    "letterSlug": ""
+  },
+  {
+    "id": "",
+    "headword": "२",
+    "headwordIAST": "२",
+    "headwordSlug": "",
+    "definitions": [],
+    "references": [],
+    "crossReferences": [],
+    "letter": "२",
+    "letterSlug": ""
+  }
+]
