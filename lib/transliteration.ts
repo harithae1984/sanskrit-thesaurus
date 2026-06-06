@@ -109,11 +109,6 @@ export function fromIAST(iast: string): string {
     }
   }
   
-  // Add conjuncts to reverse mapping
-  for (const [deva, iastConj] of Object.entries(conjuncts)) {
-    iastToDevanagari[iastConj] = deva;
-  }
-  
   let result = iast;
   // Sort by length (longest first) to match conjuncts before single chars
   const sortedKeys = Object.keys(iastToDevanagari).sort((a, b) => b.length - a.length);

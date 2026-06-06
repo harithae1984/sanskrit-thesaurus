@@ -157,7 +157,7 @@ export default function SearchBar({
           <p className="text-gray-500 text-center">
             No results found for{' '}
             <DevanagariText as="span" size="base" weight="medium" className="text-gray-700">
-              "{query}"
+              &quot;{query}&quot;
             </DevanagariText>
           </p>
           <p className="text-sm text-gray-400 text-center mt-2">

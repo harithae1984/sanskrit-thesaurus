@@ -1,10 +1,10 @@
 // lib/search.ts
 // Fuse.js search configuration for Kosha entries
 
-import Fuse from 'fuse.js';
+import Fuse, { IFuseOptions, FuseResultMatch } from 'fuse.js';
 import { KoshaEntry, SearchIndexEntry } from '@/types/entry';
 
-const fuseOptions: Fuse.IFuseOptions<SearchIndexEntry> = {
+const fuseOptions: IFuseOptions<SearchIndexEntry> = {
   keys: [
     { name: 'headword', weight: 0.5 },
     { name: 'headwordIAST', weight: 0.4 },
@@ -44,7 +44,7 @@ export function getSearchIndex(): Fuse<SearchIndexEntry> | null {
 export interface SearchResult {
   item: SearchIndexEntry;
   score?: number;
-  matches?: readonly Fuse.FuseResultMatch[];
+  matches?: readonly FuseResultMatch[];
 }
 
 export function searchEntries(
@@ -67,7 +67,7 @@ export function searchEntries(
 // Highlight matching text
 export function highlightMatches(
   text: string,
-  matches?: readonly Fuse.FuseResultMatch[]
+  matches?: readonly FuseResultMatch[]
 ): string {
   if (!matches || matches.length === 0) {
     return text;
